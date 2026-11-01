@@ -39,3 +39,4 @@ _Nothing recorded yet._
 | G.SD-T16 | 2026-10-26 | fix | closed | Bughunt: RestoreAfterDrop now only clears the saved FastElevator flag after a successful restore, so a failed SetValue no longer permanently discards the real original value | Plugin.cs |
 | G.SD-T17 | 2026-10-26 | chore | closed | Cut the v18 release: fold in the FastElevator restore-flag bug fix, bump VERSION/manifest, rebuild and repackage dist/ | package/CHANGELOG.md |
 | G.SD-T18 | 2026-11-01 | chore | closed | Rename repo to Mods.GTFO.SkipDrop for mod organization (GitHub + folder + refs) | 835fda95fe604ee30b53e177ea78ce3b13ca7b0f |
+| G.SD-T19 | 2026-11-01 | chore | closed | Cut v19 release: bump VERSION/manifest, rebuild and repackage dist/ | f979e28 on main; dotnet build 0 warnings/0 errors; dist/GTFO.SkipDrop-19.0.0.zip built |
