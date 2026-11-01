@@ -4,7 +4,7 @@ A BepInEx IL2CPP plugin for GTFO that skips the opening elevator animation and s
 
 ![Language](https://img.shields.io/badge/language-C%23%20(.NET%206)-blue)
 ![Platform](https://img.shields.io/badge/platform-BepInEx%20IL2CPP-informational)
-![Status](https://img.shields.io/badge/status-active%20(v18)-success)
+![Status](https://img.shields.io/badge/status-active%20(v19)-success)
 
 ![GTFO SkipDrop logo: four prisoners rappelling down a shaft under the words SKIP DROP](logo.png)
 
