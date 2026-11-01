@@ -1,6 +1,6 @@
 ---
 codex: 1
-project: GTFO.SkipDrop
+project: Mods.GTFO.SkipDrop
 code: G.SD
 layer: stories
 status: living
@@ -8,7 +8,7 @@ updated: 2026-10-16
 ---
 <!-- GENERATED from MindAttic.Tickets/data/Tickets.db by `tickets db render`. Do not edit: this file is rewritten from the database; change stories and tickets with the tickets CLI. -->
 
-# GTFO.SkipDrop — User Stories
+# Mods.GTFO.SkipDrop — User Stories
 > ✅ done (shipped & tested) · 🟡 partial · ⬜ planned. Every ✅ cites the test.
 
 ## Priority backlog
@@ -38,3 +38,4 @@ _Nothing recorded yet._
 | G.SD-T15 | 2026-10-24 | chore | closed | Joins the GTFO.EZ family's v17 release (previously numbered independently); no functional change | package/manifest.json |
 | G.SD-T16 | 2026-10-26 | fix | closed | Bughunt: RestoreAfterDrop now only clears the saved FastElevator flag after a successful restore, so a failed SetValue no longer permanently discards the real original value | Plugin.cs |
 | G.SD-T17 | 2026-10-26 | chore | closed | Cut the v18 release: fold in the FastElevator restore-flag bug fix, bump VERSION/manifest, rebuild and repackage dist/ | package/CHANGELOG.md |
+| G.SD-T18 | 2026-11-01 | chore | open | Rename repo to Mods.GTFO.SkipDrop for mod organization (GitHub + folder + refs) | — |
